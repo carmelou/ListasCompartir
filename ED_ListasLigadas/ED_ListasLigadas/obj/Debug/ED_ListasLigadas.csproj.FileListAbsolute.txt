@@ -1,0 +1,7 @@
+C:\Users\OCHO\Source\Repos\ED_ListasLigadas\ED_ListasLigadas\bin\Debug\ED_ListasLigadas.exe.config
+C:\Users\OCHO\Source\Repos\ED_ListasLigadas\ED_ListasLigadas\bin\Debug\ED_ListasLigadas.exe
+C:\Users\OCHO\Source\Repos\ED_ListasLigadas\ED_ListasLigadas\bin\Debug\ED_ListasLigadas.pdb
+C:\Users\OCHO\Source\Repos\ED_ListasLigadas\ED_ListasLigadas\obj\Debug\ED_ListasLigadas.csprojAssemblyReference.cache
+C:\Users\OCHO\Source\Repos\ED_ListasLigadas\ED_ListasLigadas\obj\Debug\ED_ListasLigadas.csproj.CoreCompileInputs.cache
+C:\Users\OCHO\Source\Repos\ED_ListasLigadas\ED_ListasLigadas\obj\Debug\ED_ListasLigadas.exe
+C:\Users\OCHO\Source\Repos\ED_ListasLigadas\ED_ListasLigadas\obj\Debug\ED_ListasLigadas.pdb
